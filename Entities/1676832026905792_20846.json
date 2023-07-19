@@ -1,0 +1,30 @@
+{
+    "1676832026904086:20845": {
+        "IFileManager": {
+            "path": "Files/File_1676832026904086_20845"
+        }
+    },
+    "1676832026905792:20846": {
+        "IResourceController": {
+            "name": "CarouselItem",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1676832026905796:20847",
+            "fileId": "1676832026904086:20845",
+            "originalId": "1676832026942626:20853",
+            "expected_hash": "018148c0cbad5b80e479dd5e6f404951"
+        },
+        "IResourceManager": {
+            "uid": "1676832026905796:20847",
+            "name": "Files/File_1676832026904086_20845",
+            "flags": 1
+        }
+    },
+    "1676832026942626:20853": {
+        "IFileManager": {
+            "path": "Files/File_1676832026942626_20853.lsmat"
+        }
+    }
+}

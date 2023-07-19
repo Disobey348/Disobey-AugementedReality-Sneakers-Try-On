@@ -1,0 +1,30 @@
+{
+    "1674260370606698:61934": {
+        "IFileManager": {
+            "path": "Files/File_1674260370606698_61934"
+        }
+    },
+    "1674260370607692:61935": {
+        "IResourceController": {
+            "name": "Lower Garment Occluder 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260370607695:61936",
+            "fileId": "1674260370606698:61934",
+            "originalId": "1674260370639606:61944",
+            "expected_hash": "b4c2df4ee353597aa5ce2f04e946d3fe"
+        },
+        "IResourceManager": {
+            "uid": "1674260370607695:61936",
+            "name": "Files/File_1674260370606698_61934",
+            "flags": 1
+        }
+    },
+    "1674260370639606:61944": {
+        "IFileManager": {
+            "path": "Files/File_1674260370639606_61944.lsmat"
+        }
+    }
+}

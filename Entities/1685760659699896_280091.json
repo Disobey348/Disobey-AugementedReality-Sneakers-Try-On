@@ -1,0 +1,39 @@
+{
+    "1685760659669219:280090": {
+        "IFileManager": {
+            "path": "Files/File_1685760659669219_280090"
+        }
+    },
+    "1685760659699896:280091": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685760659700045:280092",
+            "fileId": "1685760659669219:280090",
+            "originalId": "1685760660689590:280125",
+            "publicId": "1685760682801835:281422",
+            "expected_hash": "1460d23bdad5a3c1d9235d4b031c9655"
+        },
+        "IResourceManager": {
+            "uid": "1685760659700045:280092",
+            "name": "Files/File_1685760659669219_280090",
+            "flags": 1
+        }
+    },
+    "1685760660689590:280125": {
+        "IFileManager": {
+            "path": "Files/File_1685760660689590_280125.lsmat"
+        }
+    },
+    "1685760682801835:281422": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker Left/Materials/Material.lsmat",
+                "hash": "9339f73a0b6947897bdc607a13cbaf5b"
+            }
+        }
+    }
+}

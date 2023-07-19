@@ -1,0 +1,39 @@
+{
+    "1685760668268478:280526": {
+        "IFileManager": {
+            "path": "Files/File_1685760668268478_280526"
+        }
+    },
+    "1685760668300865:280527": {
+        "IResourceController": {
+            "name": "blinn1SG",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685760668300899:280528",
+            "fileId": "1685760668268478:280526",
+            "originalId": "1685760669027330:280561",
+            "publicId": "1685760682858379:281465",
+            "expected_hash": "9d42fb0cdccae136fc2d685feb38e223"
+        },
+        "IResourceManager": {
+            "uid": "1685760668300899:280528",
+            "name": "Files/File_1685760668268478_280526",
+            "flags": 1
+        }
+    },
+    "1685760669027330:280561": {
+        "IFileManager": {
+            "path": "Files/File_1685760669027330_280561.lsmat"
+        }
+    },
+    "1685760682858379:281465": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker Left/Materials/blinn1SG.lsmat",
+                "hash": "7d54768535bae2093bc19d2ea9d310ec"
+            }
+        }
+    }
+}

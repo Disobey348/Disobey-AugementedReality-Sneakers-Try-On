@@ -1,0 +1,23 @@
+{
+    "1685758539236275:37478": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685758545789122:38790",
+            "resources": [
+                "1685758539247629:37480",
+                "1685758541519694:37926"
+            ]
+        }
+    },
+    "1685758545789122:38790": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker dual mat y/Materials"
+            }
+        }
+    }
+}

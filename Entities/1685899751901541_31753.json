@@ -1,0 +1,49 @@
+{
+    "1685899751901541:31753": {
+        "IResourceController": {
+            "name": "CYberpunk Left",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1685899766781141:34994",
+            "publicId": "1685899767598721:35122",
+            "expected_hash": "cf03de48ea9275f9763e87da3f4f06b8",
+            "resources": [
+                "1685899762987748:34176",
+                "1685899763277052:34277",
+                "1685899764123680:34424",
+                "1685899766567510:34907"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "false",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "false",
+                    "importTangents": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1685899764136992:34429"
+                    }
+                ]
+            }
+        }
+    },
+    "1685899766781141:34994": {
+        "IFileManager": {
+            "path": "Files/File_1685899766781141_34994.gltf"
+        }
+    },
+    "1685899767598721:35122": {
+        "IResourceController": {
+            "public": {
+                "path": "CYberpunk Left.gltf",
+                "hash": "cf03de48ea9275f9763e87da3f4f06b8"
+            }
+        }
+    }
+}

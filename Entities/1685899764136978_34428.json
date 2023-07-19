@@ -1,0 +1,39 @@
+{
+    "1685899764125380:34427": {
+        "IFileManager": {
+            "path": "Files/File_1685899764125380_34427"
+        }
+    },
+    "1685899764136978:34428": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685899764136992:34429",
+            "fileId": "1685899764125380:34427",
+            "originalId": "1685899764330968:34462",
+            "publicId": "1685899767650824:35127",
+            "expected_hash": "fd271865cb5b3a11b3c3498ab04f6f62"
+        },
+        "IResourceManager": {
+            "uid": "1685899764136992:34429",
+            "name": "Files/File_1685899764125380_34427",
+            "flags": 1
+        }
+    },
+    "1685899764330968:34462": {
+        "IFileManager": {
+            "path": "Files/File_1685899764330968_34462.lsmat"
+        }
+    },
+    "1685899767650824:35127": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/CYberpunk Left/Materials/Material.lsmat",
+                "hash": "7f444ee036fa5818023f5f921984534e"
+            }
+        }
+    }
+}

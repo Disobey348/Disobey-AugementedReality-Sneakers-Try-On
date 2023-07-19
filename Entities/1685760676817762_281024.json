@@ -1,0 +1,30 @@
+{
+    "1685760676817762:281024": {
+        "IResourceController": {
+            "name": "Gold Black Sneaker Left",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1685760676815169:280983",
+            "fileId": "1685760677624369:281137",
+            "originalId": "1685762265349512:472561",
+            "expected_hash": "a4c6debd7ecaace01f9634e81000525f"
+        },
+        "IResourceManager": {
+            "uid": "1685760676815169:280983",
+            "name": "GltfImport_1",
+            "flags": 0
+        }
+    },
+    "1685760677624369:281137": {
+        "IFileManager": {
+            "path": "Files/File_1685760677624369_281137.oprfb"
+        }
+    },
+    "1685762265349512:472561": {
+        "IFileManager": {
+            "path": "Files/File_1685762265349512_472561.oprfb"
+        }
+    }
+}

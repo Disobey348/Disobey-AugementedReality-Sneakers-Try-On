@@ -1,0 +1,24 @@
+{
+    "1674260371806363:62446": {
+        "IFileManager": {
+            "path": "Files/File_1674260371806363_62446.js"
+        }
+    },
+    "1674260371807333:62447": {
+        "IResourceController": {
+            "name": "FootControllerScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371807338:62448",
+            "fileId": "1674260371806363:62446",
+            "expected_hash": "a1abb3c580adf773406bbd3f97dec056"
+        },
+        "IResourceManager": {
+            "uid": "1674260371807338:62448",
+            "name": "Files/File_1674260371806363_62446.js",
+            "flags": 1
+        }
+    }
+}

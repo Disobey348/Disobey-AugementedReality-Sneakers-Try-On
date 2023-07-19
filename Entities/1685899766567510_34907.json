@@ -1,0 +1,30 @@
+{
+    "1685899766567510:34907": {
+        "IResourceController": {
+            "name": "CYberpunk Left",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1685899766567051:34881",
+            "fileId": "1685899766757650:34968",
+            "originalId": "1685901187226135:186968",
+            "expected_hash": "e7f8e1e857fe826b174ddde58dff589c"
+        },
+        "IResourceManager": {
+            "uid": "1685899766567051:34881",
+            "name": "GltfImport_0",
+            "flags": 0
+        }
+    },
+    "1685899766757650:34968": {
+        "IFileManager": {
+            "path": "Files/File_1685899766757650_34968.oprfb"
+        }
+    },
+    "1685901187226135:186968": {
+        "IFileManager": {
+            "path": "Files/File_1685901187226135_186968.oprfb"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "1685758527661109:34762": {
+        "IResourceController": {
+            "name": "Gold Black Sneaker dual mat y",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1685758544298626:38537",
+            "publicId": "1685758545730985:38784",
+            "expected_hash": "453047238a6fb3efc4a2115d8a3e3ddf",
+            "resources": [
+                "1685758537404599:37072",
+                "1685758537856987:37214",
+                "1685758539236275:37478",
+                "1685758544042077:38423"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "false",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "false",
+                    "importTangents": "false",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1685758539247643:37481"
+                    },
+                    {
+                        "k": "blinn1SG",
+                        "v": "1685758541519713:37927"
+                    }
+                ]
+            }
+        }
+    },
+    "1685758544298626:38537": {
+        "IFileManager": {
+            "path": "Files/File_1685758544298626_38537.gltf"
+        }
+    },
+    "1685758545730985:38784": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Resources/Gold Black Sneaker dual mat y.gltf",
+                "hash": "453047238a6fb3efc4a2115d8a3e3ddf"
+            }
+        }
+    }
+}

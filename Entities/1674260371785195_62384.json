@@ -1,0 +1,24 @@
+{
+    "1674260371783759:62383": {
+        "IFileManager": {
+            "path": "Files/File_1674260371783759_62383.js"
+        }
+    },
+    "1674260371785195:62384": {
+        "IResourceController": {
+            "name": "HelperScript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371785205:62385",
+            "fileId": "1674260371783759:62383",
+            "expected_hash": "b4893394e264bc41e2b2aba1e39bc252"
+        },
+        "IResourceManager": {
+            "uid": "1674260371785205:62385",
+            "name": "Files/File_1674260371783759_62383.js",
+            "flags": 1
+        }
+    }
+}

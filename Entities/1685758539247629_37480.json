@@ -1,0 +1,39 @@
+{
+    "1685758539238096:37479": {
+        "IFileManager": {
+            "path": "Files/File_1685758539238096_37479"
+        }
+    },
+    "1685758539247629:37480": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685758539247643:37481",
+            "fileId": "1685758539238096:37479",
+            "originalId": "1685758539500693:37516",
+            "publicId": "1685758545792672:38791",
+            "expected_hash": "c58f3dd64224813c8fb9d88fee9bdfcb"
+        },
+        "IResourceManager": {
+            "uid": "1685758539247643:37481",
+            "name": "Files/File_1685758539238096_37479",
+            "flags": 1
+        }
+    },
+    "1685758539500693:37516": {
+        "IFileManager": {
+            "path": "Files/File_1685758539500693_37516.lsmat"
+        }
+    },
+    "1685758545792672:38791": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker dual mat y/Materials/Material.lsmat",
+                "hash": "01a2d9d785191879a0e2c1b10ff9db78"
+            }
+        }
+    }
+}

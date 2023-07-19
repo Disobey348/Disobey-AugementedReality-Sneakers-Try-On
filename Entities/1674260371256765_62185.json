@@ -1,0 +1,30 @@
+{
+    "1674260371255344:62184": {
+        "IFileManager": {
+            "path": "Files/File_1674260371255344_62184"
+        }
+    },
+    "1674260371256765:62185": {
+        "IResourceController": {
+            "name": "ImageMaskDownsample",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371256769:62186",
+            "fileId": "1674260371255344:62184",
+            "originalId": "1674260371287884:62194",
+            "expected_hash": "cc438decc64c5bf2dd2ba64d02302f3e"
+        },
+        "IResourceManager": {
+            "uid": "1674260371256769:62186",
+            "name": "Files/File_1674260371255344_62184",
+            "flags": 1
+        }
+    },
+    "1674260371287884:62194": {
+        "IFileManager": {
+            "path": "Files/File_1674260371287884_62194.lsmat"
+        }
+    }
+}

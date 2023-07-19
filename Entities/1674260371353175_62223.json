@@ -1,0 +1,30 @@
+{
+    "1674260371353175:62223": {
+        "IResourceController": {
+            "name": "Right Foot Occluder 2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371353159:62219",
+            "fileId": "1674260371384402:62230",
+            "originalId": "1674260493410673:102301",
+            "expected_hash": "c33f515ce6db5f3e455d54690aaad2bc"
+        },
+        "IResourceManager": {
+            "uid": "1674260371353159:62219",
+            "name": "sceneObject_5",
+            "flags": 0
+        }
+    },
+    "1674260371384402:62230": {
+        "IFileManager": {
+            "path": "Files/File_1674260371384402_62230.oprfb"
+        }
+    },
+    "1674260493410673:102301": {
+        "IFileManager": {
+            "path": "Files/File_1674260493410673_102301.oprfb"
+        }
+    }
+}

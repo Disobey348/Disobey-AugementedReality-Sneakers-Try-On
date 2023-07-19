@@ -1,0 +1,30 @@
+{
+    "1685758544042077:38423": {
+        "IResourceController": {
+            "name": "Gold Black Sneaker dual mat y",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1685758544041307:38382",
+            "fileId": "1685758544273571:38526",
+            "originalId": "1685762265157226:472494",
+            "expected_hash": "affac825028c7ab3b038d6ae9200749d"
+        },
+        "IResourceManager": {
+            "uid": "1685758544041307:38382",
+            "name": "GltfImport_0",
+            "flags": 0
+        }
+    },
+    "1685758544273571:38526": {
+        "IFileManager": {
+            "path": "Files/File_1685758544273571_38526.oprfb"
+        }
+    },
+    "1685762265157226:472494": {
+        "IFileManager": {
+            "path": "Files/File_1685762265157226_472494.oprfb"
+        }
+    }
+}

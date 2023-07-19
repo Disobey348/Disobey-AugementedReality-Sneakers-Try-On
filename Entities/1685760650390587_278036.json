@@ -1,0 +1,53 @@
+{
+    "1685760650390587:278036": {
+        "IResourceController": {
+            "name": "Gold Black Sneaker Left",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1685760677719264:281138",
+            "publicId": "1685760682578180:281415",
+            "expected_hash": "b6d77fe63373d4c95590e1219fc5d0c3",
+            "resources": [
+                "1685760658049592:279795",
+                "1685760658684153:279966",
+                "1685760659661226:280088",
+                "1685760676817762:281024"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "false",
+                    "convertMetersToCentimeters": "true",
+                    "importMorphTargetAnimation": "false",
+                    "importTangents": "false",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1685760659700045:280092"
+                    },
+                    {
+                        "k": "blinn1SG",
+                        "v": "1685760668300899:280528"
+                    }
+                ]
+            }
+        }
+    },
+    "1685760677719264:281138": {
+        "IFileManager": {
+            "path": "Files/File_1685760677719264_281138.gltf"
+        }
+    },
+    "1685760682578180:281415": {
+        "IResourceController": {
+            "public": {
+                "path": "3D Resources/Gold Black Sneaker Left.gltf",
+                "hash": "b6d77fe63373d4c95590e1219fc5d0c3"
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1685899763390742:34307": {
+        "IFileManager": {
+            "path": "Files/File_1685899763390742_34307.jpeg"
+        }
+    },
+    "1685899763397754:34308": {
+        "IResourceController": {
+            "name": "laces_03_0_normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685899763400858:34309",
+            "fileId": "1685899763390742:34307",
+            "originalId": "1685899763402360:34314",
+            "publicId": "1685899920551411:53221",
+            "expected_hash": "d13c79fab743002cde8f9b0ee835a0c6",
+            "additional": {
+                "originHash": "d13c79fab743002cde8f9b0ee835a0c6"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1685899763400858:34309",
+            "name": "Files/File_1685899763390742_34307.jpg",
+            "flags": 1
+        }
+    },
+    "1685899763400858:34309": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "5578424",
+                "compressedSize": "98917",
+                "extension": "jpeg",
+                "originalRAM": "4194304",
+                "originalSize": "98917",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1685899763451416:34320"
+        }
+    },
+    "1685899763402360:34314": {
+        "IFileManager": {
+            "path": "Files/File_1685899763402360_34314.jpeg"
+        }
+    },
+    "1685899763451416:34320": {
+        "IFileManager": {
+            "path": "Files/File_1685899763451416_34320.jpeg"
+        }
+    },
+    "1685899920551411:53221": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/CYberpunk Right/Textures/laces_03_0_normal.jpeg",
+                "hash": "d13c79fab743002cde8f9b0ee835a0c6"
+            }
+        }
+    }
+}

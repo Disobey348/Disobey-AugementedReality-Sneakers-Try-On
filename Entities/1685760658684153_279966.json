@@ -1,0 +1,25 @@
+{
+    "1685760658684153:279966": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685760682695674:281416",
+            "resources": [
+                "1685758537972248:37245",
+                "1685758538373715:37316",
+                "1685758538710305:37389",
+                "1685758538975380:37435"
+            ]
+        }
+    },
+    "1685760682695674:281416": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker Left/Textures"
+            }
+        }
+    }
+}

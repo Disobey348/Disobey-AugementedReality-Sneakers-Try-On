@@ -1,0 +1,39 @@
+{
+    "1685758541510051:37925": {
+        "IFileManager": {
+            "path": "Files/File_1685758541510051_37925"
+        }
+    },
+    "1685758541519694:37926": {
+        "IResourceController": {
+            "name": "blinn1SG",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685758541519713:37927",
+            "fileId": "1685758541510051:37925",
+            "originalId": "1685758541691652:37960",
+            "publicId": "1685758545812992:38817",
+            "expected_hash": "c58f3dd64224813c8fb9d88fee9bdfcb"
+        },
+        "IResourceManager": {
+            "uid": "1685758541519713:37927",
+            "name": "Files/File_1685758541510051_37925",
+            "flags": 1
+        }
+    },
+    "1685758541691652:37960": {
+        "IFileManager": {
+            "path": "Files/File_1685758541691652_37960.lsmat"
+        }
+    },
+    "1685758545812992:38817": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker dual mat y/Materials/blinn1SG.lsmat",
+                "hash": "6680f772fdf6e58624c3c9b88ec7b741"
+            }
+        }
+    }
+}

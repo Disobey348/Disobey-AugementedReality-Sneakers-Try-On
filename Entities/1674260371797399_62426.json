@@ -1,0 +1,17 @@
+{
+    "1674260371797399:62426": {
+        "IResourceController": {
+            "name": "Foot Tracking Model 2",
+            "type": 22,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371797396:62425"
+        },
+        "IResourceManager": {
+            "uid": "1674260371797396:62425",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

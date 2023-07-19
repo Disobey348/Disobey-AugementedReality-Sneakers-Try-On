@@ -1,0 +1,24 @@
+{
+    "1674260371803097:62436": {
+        "IFileManager": {
+            "path": "Files/File_1674260371803097_62436.js"
+        }
+    },
+    "1674260371804386:62437": {
+        "IResourceController": {
+            "name": "FootDecoders",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371804396:62438",
+            "fileId": "1674260371803097:62436",
+            "expected_hash": "d0f461a3ba7320ff2b31e35d5ddbfb8b"
+        },
+        "IResourceManager": {
+            "uid": "1674260371804396:62438",
+            "name": "Files/File_1674260371803097_62436.js",
+            "flags": 1
+        }
+    }
+}

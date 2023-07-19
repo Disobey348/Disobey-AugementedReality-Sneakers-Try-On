@@ -1,0 +1,30 @@
+{
+    "1685899917714458:53032": {
+        "IResourceController": {
+            "name": "CYberpunk Right",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1685899917713530:53006",
+            "fileId": "1685899918407885:53093",
+            "originalId": "1685901188050549:187046",
+            "expected_hash": "a2dc1cb4b4ff97c1cb2034d3b731da6a"
+        },
+        "IResourceManager": {
+            "uid": "1685899917713530:53006",
+            "name": "GltfImport_1",
+            "flags": 0
+        }
+    },
+    "1685899918407885:53093": {
+        "IFileManager": {
+            "path": "Files/File_1685899918407885_53093.oprfb"
+        }
+    },
+    "1685901188050549:187046": {
+        "IFileManager": {
+            "path": "Files/File_1685901188050549_187046.oprfb"
+        }
+    }
+}

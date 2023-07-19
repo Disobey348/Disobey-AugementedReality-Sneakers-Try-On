@@ -1,0 +1,20 @@
+{
+    "1685758537856987:37214": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685758545757502:38785",
+            "resources": []
+        }
+    },
+    "1685758545757502:38785": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker dual mat y/Textures"
+            }
+        }
+    }
+}

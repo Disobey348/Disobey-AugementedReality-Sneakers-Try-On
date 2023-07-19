@@ -1,0 +1,30 @@
+{
+    "1674260371751397:62364": {
+        "IResourceController": {
+            "name": "FootControllerObject 2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371751380:62361",
+            "fileId": "1674260371782317:62372",
+            "originalId": "1674260493484821:102331",
+            "expected_hash": "c656344288cfbab7a30412e4d6f5df62"
+        },
+        "IResourceManager": {
+            "uid": "1674260371751380:62361",
+            "name": "sceneObject_7",
+            "flags": 0
+        }
+    },
+    "1674260371782317:62372": {
+        "IFileManager": {
+            "path": "Files/File_1674260371782317_62372.oprfb"
+        }
+    },
+    "1674260493484821:102331": {
+        "IFileManager": {
+            "path": "Files/File_1674260493484821_102331.oprfb"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "1674260370597731:61905": {
+        "IFileManager": {
+            "path": "Files/File_1674260370597731_61905.js"
+        }
+    },
+    "1674260370598683:61906": {
+        "IResourceController": {
+            "name": "Foot Tracking",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260370598691:61907",
+            "fileId": "1674260370597731:61905",
+            "expected_hash": "b1b23d3b0e8b8de5aaaf2e08dcebf92a"
+        },
+        "IResourceManager": {
+            "uid": "1674260370598691:61907",
+            "name": "Files/File_1674260370597731_61905.js",
+            "flags": 1
+        }
+    }
+}

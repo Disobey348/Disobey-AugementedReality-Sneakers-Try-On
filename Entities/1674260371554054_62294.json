@@ -1,0 +1,30 @@
+{
+    "1674260371554054:62294": {
+        "IResourceController": {
+            "name": "Left Foot Occluder 2",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371554028:62291",
+            "fileId": "1674260371585224:62302",
+            "originalId": "1674260493446717:102309",
+            "expected_hash": "c8f9eb3114f379dd5ba2b13028e8903a"
+        },
+        "IResourceManager": {
+            "uid": "1674260371554028:62291",
+            "name": "sceneObject_6",
+            "flags": 0
+        }
+    },
+    "1674260371585224:62302": {
+        "IFileManager": {
+            "path": "Files/File_1674260371585224_62302.oprfb"
+        }
+    },
+    "1674260493446717:102309": {
+        "IFileManager": {
+            "path": "Files/File_1674260493446717_102309.oprfb"
+        }
+    }
+}

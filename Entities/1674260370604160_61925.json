@@ -1,0 +1,24 @@
+{
+    "1674260370602345:61924": {
+        "IFileManager": {
+            "path": "Files/File_1674260370602345_61924.js"
+        }
+    },
+    "1674260370604160:61925": {
+        "IResourceController": {
+            "name": "SceneObjectHelpersModule",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260370604171:61926",
+            "fileId": "1674260370602345:61924",
+            "expected_hash": "7b283b36351ae4014d75f17ac2d83b31"
+        },
+        "IResourceManager": {
+            "uid": "1674260370604171:61926",
+            "name": "Files/File_1674260370602345_61924.js",
+            "flags": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1674260370707788:61959": {
+        "IFileManager": {
+            "path": "Files/File_1674260370707788_61959"
+        }
+    },
+    "1674260370708722:61960": {
+        "IResourceController": {
+            "name": "OccluderDeviceCamera",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260370708726:61961",
+            "fileId": "1674260370707788:61959",
+            "originalId": "1674260370740944:61969",
+            "expected_hash": "4965770080966c81aff206f3e5990b65"
+        },
+        "IResourceManager": {
+            "uid": "1674260370708726:61961",
+            "name": "Files/File_1674260370707788_61959",
+            "flags": 1
+        }
+    },
+    "1674260370740944:61969": {
+        "IFileManager": {
+            "path": "Files/File_1674260370740944_61969.lsmat"
+        }
+    }
+}

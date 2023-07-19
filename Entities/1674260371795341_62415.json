@@ -1,0 +1,24 @@
+{
+    "1674260371794502:62414": {
+        "IFileManager": {
+            "path": "Files/File_1674260371794502_62414.js"
+        }
+    },
+    "1674260371795341:62415": {
+        "IResourceController": {
+            "name": "EuroFilters",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371795346:62416",
+            "fileId": "1674260371794502:62414",
+            "expected_hash": "9dcb03a291fdb4711885b04d60de8f78"
+        },
+        "IResourceManager": {
+            "uid": "1674260371795346:62416",
+            "name": "Files/File_1674260371794502_62414.js",
+            "flags": 1
+        }
+    }
+}

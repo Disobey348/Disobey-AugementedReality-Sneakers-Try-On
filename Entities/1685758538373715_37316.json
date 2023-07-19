@@ -1,0 +1,66 @@
+{
+    "1685758538365684:37315": {
+        "IFileManager": {
+            "path": "Files/File_1685758538365684_37315.jpeg"
+        }
+    },
+    "1685758538373715:37316": {
+        "IResourceController": {
+            "name": "Image_5",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685758538375452:37317",
+            "fileId": "1685758538365684:37315",
+            "originalId": "1685758538376795:37322",
+            "publicId": "1685760682736914:281418",
+            "expected_hash": "6b55f7311fd78251da121f09becde011",
+            "additional": {
+                "originHash": "6b55f7311fd78251da121f09becde011"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1685758538375452:37317",
+            "name": "Files/File_1685758538365684_37315.jpg",
+            "flags": 1
+        }
+    },
+    "1685758538375452:37317": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "5578424",
+                "compressedSize": "41191",
+                "extension": "jpeg",
+                "originalRAM": "4194304",
+                "originalSize": "41191",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1685758538424611:37330"
+        }
+    },
+    "1685758538376795:37322": {
+        "IFileManager": {
+            "path": "Files/File_1685758538376795_37322.jpeg"
+        }
+    },
+    "1685758538424611:37330": {
+        "IFileManager": {
+            "path": "Files/File_1685758538424611_37330.jpeg"
+        }
+    },
+    "1685760682736914:281418": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker Left/Textures/Image_5.jpeg",
+                "hash": "6b55f7311fd78251da121f09becde011"
+            }
+        }
+    }
+}

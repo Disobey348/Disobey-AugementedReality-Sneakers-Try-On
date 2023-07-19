@@ -1,0 +1,23 @@
+{
+    "1685760659661226:280088": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1685760682789467:281421",
+            "resources": [
+                "1685760659699896:280091",
+                "1685760668300865:280527"
+            ]
+        }
+    },
+    "1685760682789467:281421": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker Left/Materials"
+            }
+        }
+    }
+}

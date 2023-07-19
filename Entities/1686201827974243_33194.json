@@ -1,0 +1,79 @@
+{
+    "1686201827955575:33191": {
+        "IFileManager": {
+            "path": "Files/File_1686201827955575_33191.pvr"
+        }
+    },
+    "1686201827974243:33194": {
+        "IResourceController": {
+            "name": "disobey Logo Minimalistic",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1686201828004500:33195",
+            "fileId": "1686201827955575:33191",
+            "originalId": "1686201828006478:33200",
+            "publicId": "1686201828154946:33231",
+            "expected_hash": "10b75c9885771bf30ca4392bf8783009",
+            "additional": {
+                "originHash": "3743f0c34b057b2944283c34be0e41c4"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1686201828004500:33195",
+            "name": "Files/File_1686201827955575_33191.png",
+            "flags": 1
+        }
+    },
+    "1686201828004500:33195": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3743f0c34b057b2944283c34be0e41c4"
+                    },
+                    "v": "1686201828739778:33422"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "125000",
+                "compressedSize": "4920",
+                "extension": "png",
+                "originalRAM": "1000000",
+                "originalSize": "6917",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1686201828049252:33201"
+        }
+    },
+    "1686201828006478:33200": {
+        "IFileManager": {
+            "path": "Files/File_1686201828006478_33200.png"
+        }
+    },
+    "1686201828049252:33201": {
+        "IFileManager": {
+            "path": "Files/File_1686201828049252_33201.png"
+        }
+    },
+    "1686201828154946:33231": {
+        "IResourceController": {
+            "public": {
+                "path": "disobey Logo Minimalistic.png",
+                "hash": "3743f0c34b057b2944283c34be0e41c4"
+            }
+        }
+    },
+    "1686201828739778:33422": {
+        "IFileManager": {
+            "path": "Files/File_1686201828739778_33422.pvr"
+        }
+    }
+}

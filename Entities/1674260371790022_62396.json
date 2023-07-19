@@ -1,0 +1,24 @@
+{
+    "1674260371788877:62395": {
+        "IFileManager": {
+            "path": "Files/File_1674260371788877_62395.js"
+        }
+    },
+    "1674260371790022:62396": {
+        "IResourceController": {
+            "name": "JSMathLibraryModule",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1674260371790029:62397",
+            "fileId": "1674260371788877:62395",
+            "expected_hash": "a8388c0b7213741fbedb0dd14fb07a3d"
+        },
+        "IResourceManager": {
+            "uid": "1674260371790029:62397",
+            "name": "Files/File_1674260371788877_62395.js",
+            "flags": 1
+        }
+    }
+}

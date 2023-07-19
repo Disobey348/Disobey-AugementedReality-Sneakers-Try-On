@@ -1,0 +1,1425 @@
+{
+    "lens_id": "",
+    "document_id": "Ll7wf2tAm46UwAJZbssL",
+    "original_document_id": "fyT06w8SU6tRhcRdPq7l",
+    "version": "31",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "43",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                },
+                "1651740821321039:38503": {
+                    "longitude": "-0.13170607388019562",
+                    "latitude": "51.512580871582031",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Dean Street And Romily",
+                    "pinUid": "1651740821320812:38502",
+                    "locationAsset": "1651740821321523:38504"
+                },
+                "1651744904534351:1306090": {
+                    "longitude": "-0.13159231841564178",
+                    "latitude": "51.512386322021484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1651744904534135:1306089",
+                    "locationAsset": "1651744904535003:1306091"
+                },
+                "1652347539892906:46549": {
+                    "longitude": "-0.085821650922298431",
+                    "latitude": "51.528266906738281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1652347539892395:46548",
+                    "locationAsset": "1652347539893864:46550"
+                },
+                "1653297295919937:563039": {
+                    "longitude": "-0.12685032188892365",
+                    "latitude": "51.507827758789062",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297295919457:563038",
+                    "locationAsset": "1653297295921503:563046"
+                },
+                "1653297493220826:286071": {
+                    "longitude": "-0.12681996822357178",
+                    "latitude": "51.515045166015625",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297493220620:286070",
+                    "locationAsset": "1653297493221647:286072"
+                },
+                "1653297815414767:678204": {
+                    "longitude": "-0.12326952069997787",
+                    "latitude": "51.509716033935547",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297815414537:678203",
+                    "locationAsset": "1653297815415381:678205"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            }
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "d1cd43e4436b2e5537920ba1eba0c83b",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_look_down"
+            ],
+            "lens": "Gold Sneaker",
+            "applicability": "2",
+            "lens_descriptors": "",
+            "sg": "true",
+            "git_friendly": "true",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "project:Images\/foot.png",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "project:Images\/foot.png",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "project:Videos\/foot_age.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "8",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1663847071896243:7265207",
+                    "v": "7oQbEEW71bZuPsOjINWhR8"
+                },
+                {
+                    "k": "1666179897509669:327181",
+                    "v": "6UpvDKXAxFjiYd0bdW5w49"
+                },
+                {
+                    "k": "1666622606632818:20426",
+                    "v": "2COq7qYaZ6G15pz6eQWZuo"
+                },
+                {
+                    "k": "1666622607881407:20978",
+                    "v": "2COq7qYaZ6G15pz6eQWZuo"
+                },
+                {
+                    "k": "1666622609115687:21399",
+                    "v": "2COq7qYaZ6G15pz6eQWZuo"
+                }
+            ]
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1685758588366181:47282",
+                        "v": {
+                            "prefab": "1685758544041307:38382",
+                            "mapping": [
+                                {
+                                    "k": "1685758544007900:38360",
+                                    "v": "1685758588366181:47282"
+                                },
+                                {
+                                    "k": "1685758544023107:38362",
+                                    "v": "1685758588378021:47300"
+                                },
+                                {
+                                    "k": "1685758544025087:38364",
+                                    "v": "1685758588381433:47302"
+                                },
+                                {
+                                    "k": "1685758544027098:38366",
+                                    "v": "1685758588384693:47305"
+                                },
+                                {
+                                    "k": "1685758544029067:38368",
+                                    "v": "1685758588388793:47308"
+                                },
+                                {
+                                    "k": "1685758544034331:38379",
+                                    "v": "1685758588407920:47319"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1685760751020919:292083",
+                        "v": {
+                            "prefab": "1685760676815169:280983",
+                            "mapping": [
+                                {
+                                    "k": "1685760676726388:280961",
+                                    "v": "1685760751020919:292083"
+                                },
+                                {
+                                    "k": "1685760676759685:280963",
+                                    "v": "1685760751022992:292101"
+                                },
+                                {
+                                    "k": "1685760676767586:280965",
+                                    "v": "1685760751025247:292103"
+                                },
+                                {
+                                    "k": "1685760676774634:280967",
+                                    "v": "1685760751027711:292105"
+                                },
+                                {
+                                    "k": "1685760676780717:280969",
+                                    "v": "1685760751029111:292107"
+                                },
+                                {
+                                    "k": "1685760676797284:280980",
+                                    "v": "1685760751032695:292118"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1685900355627151:96024",
+                        "v": {
+                            "prefab": "1685899766567051:34881",
+                            "mapping": [
+                                {
+                                    "k": "1685899766550398:34862",
+                                    "v": "1685900355627151:96024"
+                                },
+                                {
+                                    "k": "1685899766556500:34864",
+                                    "v": "1685900355639499:96034"
+                                },
+                                {
+                                    "k": "1685899766557687:34866",
+                                    "v": "1685900355644424:96036"
+                                },
+                                {
+                                    "k": "1685899766559558:34868",
+                                    "v": "1685900355648386:96038"
+                                },
+                                {
+                                    "k": "1685899766561448:34870",
+                                    "v": "1685900355655522:96040"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1685901161749338:184893",
+                        "v": {
+                            "prefab": "1685899917713530:53006",
+                            "mapping": [
+                                {
+                                    "k": "1685899917668816:52987",
+                                    "v": "1685901161749338:184893"
+                                },
+                                {
+                                    "k": "1685899917682566:52989",
+                                    "v": "1685901161770165:184903"
+                                },
+                                {
+                                    "k": "1685899917687849:52991",
+                                    "v": "1685901161775074:184905"
+                                },
+                                {
+                                    "k": "1685899917692634:52993",
+                                    "v": "1685901161779249:184907"
+                                },
+                                {
+                                    "k": "1685899917697170:52995",
+                                    "v": "1685901161785192:184909"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1579800684140620:1543526",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1579800684138736:1543507"
+                        },
+                        {
+                            "k": [
+                                "m2"
+                            ],
+                            "v": "1579800684139034:1543509"
+                        },
+                        {
+                            "k": [
+                                "m2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1579800684139233:1543511"
+                        },
+                        {
+                            "k": [
+                                "m2",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1579800684139918:1543523"
+                        }
+                    ]
+                },
+                {
+                    "k": "1580862240852480:6619235",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1580862240787127:6619154"
+                        },
+                        {
+                            "k": [
+                                "debug_model:Mesh"
+                            ],
+                            "v": "1580862240787482:6619156"
+                        },
+                        {
+                            "k": [
+                                "debug_model:Mesh",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1580862240787702:6619158"
+                        }
+                    ]
+                },
+                {
+                    "k": "1581097756824785:44664709",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1581097756822932:44664693"
+                        },
+                        {
+                            "k": [
+                                "debug_model:Mesh"
+                            ],
+                            "v": "1581097756823435:44664695"
+                        },
+                        {
+                            "k": [
+                                "debug_model:Mesh",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581097756823777:44664697"
+                        }
+                    ]
+                },
+                {
+                    "k": "1582118471231368:66905",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1582118471101093:66812"
+                        },
+                        {
+                            "k": [
+                                "occluderR"
+                            ],
+                            "v": "1582118471102399:66814"
+                        },
+                        {
+                            "k": [
+                                "occluderR",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1582118471102657:66816"
+                        }
+                    ]
+                },
+                {
+                    "k": "1582118473124020:69518",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1582118473122592:69502"
+                        },
+                        {
+                            "k": [
+                                "occluderL"
+                            ],
+                            "v": "1582118473122958:69504"
+                        },
+                        {
+                            "k": [
+                                "occluderL",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1582118473123224:69506"
+                        }
+                    ]
+                },
+                {
+                    "k": "1582119283259526:397985",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1582119283258056:397969"
+                        },
+                        {
+                            "k": [
+                                "occluderL"
+                            ],
+                            "v": "1582119283258473:397971"
+                        },
+                        {
+                            "k": [
+                                "occluderL",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1582119283258694:397973"
+                        }
+                    ]
+                },
+                {
+                    "k": "1582147599592096:11807933",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1582147599589033:11807915"
+                        },
+                        {
+                            "k": [
+                                "occluderR"
+                            ],
+                            "v": "1582147599589483:11807919"
+                        },
+                        {
+                            "k": [
+                                "occluderR",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1582147599590661:11807921"
+                        }
+                    ]
+                },
+                {
+                    "k": "1584351306912419:1190233",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1584351306850356:1190164"
+                        },
+                        {
+                            "k": [
+                                "gucci_left"
+                            ],
+                            "v": "1584351306850647:1190166"
+                        },
+                        {
+                            "k": [
+                                "gucci_left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1584351306850838:1190168"
+                        }
+                    ]
+                },
+                {
+                    "k": "1584351330674308:1197203",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1584351330672572:1197187"
+                        },
+                        {
+                            "k": [
+                                "gucci_right"
+                            ],
+                            "v": "1584351330672992:1197189"
+                        },
+                        {
+                            "k": [
+                                "gucci_right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1584351330673318:1197191"
+                        }
+                    ]
+                },
+                {
+                    "k": "1584351460304188:1225464",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1584351460301877:1225448"
+                        },
+                        {
+                            "k": [
+                                "occluder_left"
+                            ],
+                            "v": "1584351460302310:1225450"
+                        },
+                        {
+                            "k": [
+                                "occluder_left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1584351460302644:1225452"
+                        }
+                    ]
+                },
+                {
+                    "k": "1584351467142649:1228641",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1584351467141399:1228625"
+                        },
+                        {
+                            "k": [
+                                "occluder_right"
+                            ],
+                            "v": "1584351467141681:1228627"
+                        },
+                        {
+                            "k": [
+                                "occluder_right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1584351467141870:1228629"
+                        }
+                    ]
+                },
+                {
+                    "k": "1589581822319209:661287",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1589581822228413:661212"
+                        },
+                        {
+                            "k": [
+                                "foot-Left"
+                            ],
+                            "v": "1589581822315974:661273"
+                        },
+                        {
+                            "k": [
+                                "foot-Left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1589581822316306:661275"
+                        },
+                        {
+                            "k": [
+                                "foot-Right"
+                            ],
+                            "v": "1589581822228750:661214"
+                        },
+                        {
+                            "k": [
+                                "foot-Right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1589581822228972:661216"
+                        }
+                    ]
+                },
+                {
+                    "k": "1590790849408915:8653",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1590790849323046:8567"
+                        },
+                        {
+                            "k": [
+                                "foot-Left"
+                            ],
+                            "v": "1590790849407410:8639"
+                        },
+                        {
+                            "k": [
+                                "foot-Left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1590790849407709:8641"
+                        },
+                        {
+                            "k": [
+                                "foot-Right"
+                            ],
+                            "v": "1590790849323394:8569"
+                        },
+                        {
+                            "k": [
+                                "foot-Right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1590790849323640:8571"
+                        }
+                    ]
+                },
+                {
+                    "k": "1591725080267759:905724",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1591725080149206:905617"
+                        },
+                        {
+                            "k": [
+                                "occluder"
+                            ],
+                            "v": "1591725080262198:905682"
+                        },
+                        {
+                            "k": [
+                                "occluder",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1591725080262712:905684"
+                        },
+                        {
+                            "k": [
+                                "occluder.001"
+                            ],
+                            "v": "1591725080265666:905710"
+                        },
+                        {
+                            "k": [
+                                "occluder.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1591725080266039:905712"
+                        },
+                        {
+                            "k": [
+                                "shoe"
+                            ],
+                            "v": "1591725080149817:905619"
+                        },
+                        {
+                            "k": [
+                                "shoe",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1591725080150318:905621"
+                        },
+                        {
+                            "k": [
+                                "shoe.001"
+                            ],
+                            "v": "1591725080264031:905696"
+                        },
+                        {
+                            "k": [
+                                "shoe.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1591725080264445:905698"
+                        }
+                    ]
+                },
+                {
+                    "k": "1649494568150879:20827340",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1649494568144843:20827324"
+                        },
+                        {
+                            "k": [
+                                "right_shoe_lensstudio_NEW_TEXTURE_MERGED_VERTICES_right_shoe_lensstudio.004"
+                            ],
+                            "v": "1649494568146313:20827326"
+                        },
+                        {
+                            "k": [
+                                "right_shoe_lensstudio_NEW_TEXTURE_MERGED_VERTICES_right_shoe_lensstudio.004",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1649494568147012:20827328"
+                        }
+                    ]
+                },
+                {
+                    "k": "1649702729608254:587919",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1649703306458101:733693"
+                        },
+                        {
+                            "k": [
+                                "occluder_left"
+                            ],
+                            "v": "1649703306460193:733695"
+                        },
+                        {
+                            "k": [
+                                "occluder_left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1649703306460604:733697"
+                        },
+                        {
+                            "k": [
+                                "occluder_right"
+                            ],
+                            "v": "1649703306464466:733729"
+                        },
+                        {
+                            "k": [
+                                "occluder_right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1649703306464958:733731"
+                        },
+                        {
+                            "k": [
+                                "shoe_left"
+                            ],
+                            "v": "1649703306462328:733714"
+                        },
+                        {
+                            "k": [
+                                "shoe_left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1649703306462898:733716"
+                        },
+                        {
+                            "k": [
+                                "shoe_right"
+                            ],
+                            "v": "1649703306466246:733744"
+                        },
+                        {
+                            "k": [
+                                "shoe_right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1649703306466710:733746"
+                        }
+                    ]
+                },
+                {
+                    "k": "1656513291185205:2583102",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1656513291154876:2583010"
+                        },
+                        {
+                            "k": [
+                                "occluder_left"
+                            ],
+                            "v": "1656513291162211:2583012"
+                        },
+                        {
+                            "k": [
+                                "occluder_left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1656513291163366:2583014"
+                        },
+                        {
+                            "k": [
+                                "occluder_left_foot"
+                            ],
+                            "v": "1656513291181179:2583087"
+                        },
+                        {
+                            "k": [
+                                "occluder_left_foot",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1656513291181930:2583089"
+                        },
+                        {
+                            "k": [
+                                "occluder_right"
+                            ],
+                            "v": "1656513291171037:2583042"
+                        },
+                        {
+                            "k": [
+                                "occluder_right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1656513291171723:2583044"
+                        },
+                        {
+                            "k": [
+                                "occluder_right_foot"
+                            ],
+                            "v": "1656513291178067:2583072"
+                        },
+                        {
+                            "k": [
+                                "occluder_right_foot",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1656513291179096:2583074"
+                        },
+                        {
+                            "k": [
+                                "shoe_left"
+                            ],
+                            "v": "1656513291166895:2583027"
+                        },
+                        {
+                            "k": [
+                                "shoe_left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1656513291168057:2583029"
+                        },
+                        {
+                            "k": [
+                                "shoe_right"
+                            ],
+                            "v": "1656513291174551:2583057"
+                        },
+                        {
+                            "k": [
+                                "shoe_right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1656513291175504:2583059"
+                        }
+                    ]
+                },
+                {
+                    "k": "1662364092597628:5194790",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1662364092592151:5194752"
+                        },
+                        {
+                            "k": [
+                                "Scenes"
+                            ],
+                            "v": "1662364092593817:5194756"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene"
+                            ],
+                            "v": "1662364092594375:5194758"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Shoe_Right"
+                            ],
+                            "v": "1662364092594683:5194760"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Shoe_Right",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1662364092596010:5194773"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Shoe_Right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1662364092594959:5194762"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Shoes_Left"
+                            ],
+                            "v": "1662364092596275:5194775"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Shoes_Left",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1662364092597197:5194788"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Shoes_Left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1662364092596557:5194777"
+                        }
+                    ]
+                },
+                {
+                    "k": "1666622606325761:20070",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1666622606298747:20015"
+                        },
+                        {
+                            "k": [
+                                "shoe_mesh_l"
+                            ],
+                            "v": "1666622606320023:20028"
+                        },
+                        {
+                            "k": [
+                                "shoe_mesh_l",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1666622606320971:20044"
+                        },
+                        {
+                            "k": [
+                                "shoe_mesh_r"
+                            ],
+                            "v": "1666622606322974:20057"
+                        },
+                        {
+                            "k": [
+                                "shoe_mesh_r",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1666622606323653:20059"
+                        }
+                    ]
+                },
+                {
+                    "k": "1667504325175095:108968",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1667504325162117:108940"
+                        },
+                        {
+                            "k": [
+                                "occluder_left.002"
+                            ],
+                            "v": "1667504325170685:108955"
+                        },
+                        {
+                            "k": [
+                                "occluder_left.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1667504325171361:108957"
+                        },
+                        {
+                            "k": [
+                                "occluder_right.002"
+                            ],
+                            "v": "1667504325166663:108942"
+                        },
+                        {
+                            "k": [
+                                "occluder_right.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1667504325167426:108944"
+                        }
+                    ]
+                },
+                {
+                    "k": "1685719219997158:205354",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1685719219966034:205318"
+                        },
+                        {
+                            "k": [
+                                "Gold_Sneaker_Right_H_LOD3"
+                            ],
+                            "v": "1685719219971596:205320"
+                        },
+                        {
+                            "k": [
+                                "Gold_Sneaker_Right_H_LOD3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1685719219972673:205322"
+                        },
+                        {
+                            "k": [
+                                "Gold_Sneaker_Right_H_LOD3",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1685719219976662:205333"
+                        },
+                        {
+                            "k": [
+                                "Gold_Sneaker_Right_H_LOD3",
+                                "Component.RenderMeshVisual2"
+                            ],
+                            "v": "1685719219978977:205336"
+                        },
+                        {
+                            "k": [
+                                "Gold_Sneaker_Right_H_LOD3",
+                                "Component.RenderMeshVisual3"
+                            ],
+                            "v": "1685719219981112:205339"
+                        },
+                        {
+                            "k": [
+                                "Gold_Sneaker_Right_H_LOD3",
+                                "Component.RenderMeshVisual4"
+                            ],
+                            "v": "1685719219983931:205342"
+                        },
+                        {
+                            "k": [
+                                "Gold_Sneaker_Right_H_LOD3",
+                                "Component.RenderMeshVisual5"
+                            ],
+                            "v": "1685719219986294:205345"
+                        },
+                        {
+                            "k": [
+                                "Gold_Sneaker_Right_H_LOD3",
+                                "Component.RenderMeshVisual6"
+                            ],
+                            "v": "1685719219989008:205348"
+                        },
+                        {
+                            "k": [
+                                "Gold_Sneaker_Right_H_LOD3",
+                                "Component.RenderMeshVisual7"
+                            ],
+                            "v": "1685719219992590:205351"
+                        }
+                    ]
+                },
+                {
+                    "k": "1685758544041307:38382",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1685758544007900:38360"
+                        },
+                        {
+                            "k": [
+                                "Scenes"
+                            ],
+                            "v": "1685758544023107:38362"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene"
+                            ],
+                            "v": "1685758544025087:38364"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Object_2.002"
+                            ],
+                            "v": "1685758544027098:38366"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Object_2.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1685758544029067:38368"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Object_2.002",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1685758544034331:38379"
+                        }
+                    ]
+                },
+                {
+                    "k": "1685760676815169:280983",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1685760676726388:280961"
+                        },
+                        {
+                            "k": [
+                                "Scenes"
+                            ],
+                            "v": "1685760676759685:280963"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene"
+                            ],
+                            "v": "1685760676767586:280965"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Object_2.002"
+                            ],
+                            "v": "1685760676774634:280967"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Object_2.002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1685760676780717:280969"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Object_2.002",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1685760676797284:280980"
+                        }
+                    ]
+                },
+                {
+                    "k": "1685899766567051:34881",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1685899766550398:34862"
+                        },
+                        {
+                            "k": [
+                                "Scenes"
+                            ],
+                            "v": "1685899766556500:34864"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene"
+                            ],
+                            "v": "1685899766557687:34866"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Cyberpunk Left"
+                            ],
+                            "v": "1685899766559558:34868"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Cyberpunk Left",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1685899766561448:34870"
+                        }
+                    ]
+                },
+                {
+                    "k": "1685899917713530:53006",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1685899917668816:52987"
+                        },
+                        {
+                            "k": [
+                                "Scenes"
+                            ],
+                            "v": "1685899917682566:52989"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene"
+                            ],
+                            "v": "1685899917687849:52991"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Cyberpunk Right"
+                            ],
+                            "v": "1685899917692634:52993"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "Scene",
+                                "Cyberpunk Right",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1685899917697170:52995"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "Footwear Try-On",
+    "templateUrl": "https:\/\/downloads.ctfassets.net\/xyb83mibqg29\/ZaESkQNvDXhzkV37UWaIA\/ecf20150b533183a8395216787c60c28\/Footwear_Try-On.zip"
+}

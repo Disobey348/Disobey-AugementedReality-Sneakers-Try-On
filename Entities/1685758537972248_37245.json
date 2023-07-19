@@ -1,0 +1,66 @@
+{
+    "1685758537964787:37244": {
+        "IFileManager": {
+            "path": "Files/File_1685758537964787_37244.jpeg"
+        }
+    },
+    "1685758537972248:37245": {
+        "IResourceController": {
+            "name": "Object_2_color",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685758537986025:37246",
+            "fileId": "1685758537964787:37244",
+            "originalId": "1685758537986974:37251",
+            "publicId": "1685760682709276:281417",
+            "expected_hash": "ce15436580c870d1ea2ec2c1c444efc2",
+            "additional": {
+                "originHash": "ce15436580c870d1ea2ec2c1c444efc2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1685758537986025:37246",
+            "name": "Files/File_1685758537964787_37244.jpg",
+            "flags": 1
+        }
+    },
+    "1685758537986025:37246": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "5578424",
+                "compressedSize": "134091",
+                "extension": "jpeg",
+                "originalRAM": "4194304",
+                "originalSize": "134091",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1685758538033963:37257"
+        }
+    },
+    "1685758537986974:37251": {
+        "IFileManager": {
+            "path": "Files/File_1685758537986974_37251.jpeg"
+        }
+    },
+    "1685758538033963:37257": {
+        "IFileManager": {
+            "path": "Files/File_1685758538033963_37257.jpeg"
+        }
+    },
+    "1685760682709276:281417": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/3D Resources/Gold Black Sneaker Left/Textures/Object_2_color.jpeg",
+                "hash": "ce15436580c870d1ea2ec2c1c444efc2"
+            }
+        }
+    }
+}

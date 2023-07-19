@@ -1,0 +1,30 @@
+{
+    "1676832027252552:20879": {
+        "IFileManager": {
+            "path": "Files/File_1676832027252552_20879"
+        }
+    },
+    "1676832027254259:20880": {
+        "IResourceController": {
+            "name": "CarouselBackground",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1676832027254262:20881",
+            "fileId": "1676832027252552:20879",
+            "originalId": "1676832027290431:20887",
+            "expected_hash": "f962686ecc715337654d182f74b1ec8b"
+        },
+        "IResourceManager": {
+            "uid": "1676832027254262:20881",
+            "name": "Files/File_1676832027252552_20879",
+            "flags": 1
+        }
+    },
+    "1676832027290431:20887": {
+        "IFileManager": {
+            "path": "Files/File_1676832027290431_20887.lsmat"
+        }
+    }
+}

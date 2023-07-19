@@ -1,0 +1,79 @@
+{
+    "1685762194019422:462672": {
+        "IFileManager": {
+            "path": "Files/File_1685762194019422_462672.pvr"
+        }
+    },
+    "1685762194051635:462673": {
+        "IResourceController": {
+            "name": "Disobey Full Logo",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685762194099724:462674",
+            "fileId": "1685762194019422:462672",
+            "originalId": "1685762194105344:462679",
+            "publicId": "1685762194475591:462710",
+            "expected_hash": "a2b44a681726bb0cf19a39f80a4c3ef8",
+            "additional": {
+                "originHash": "cae2c06313485f95e6079e068b9f335e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1685762194099724:462674",
+            "name": "Files/File_1685762194019422_462672.png",
+            "flags": 1
+        }
+    },
+    "1685762194099724:462674": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "cae2c06313485f95e6079e068b9f335e"
+                    },
+                    "v": "1685762208388733:463426"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "9936",
+                "compressedSize": "3601",
+                "extension": "png",
+                "originalRAM": "76440",
+                "originalSize": "9771",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1685762194258317:462680"
+        }
+    },
+    "1685762194105344:462679": {
+        "IFileManager": {
+            "path": "Files/File_1685762194105344_462679.png"
+        }
+    },
+    "1685762194258317:462680": {
+        "IFileManager": {
+            "path": "Files/File_1685762194258317_462680.png"
+        }
+    },
+    "1685762194475591:462710": {
+        "IResourceController": {
+            "public": {
+                "path": "Disobey Full Logo.png",
+                "hash": "cae2c06313485f95e6079e068b9f335e"
+            }
+        }
+    },
+    "1685762208388733:463426": {
+        "IFileManager": {
+            "path": "Files/File_1685762208388733_463426.pvr"
+        }
+    }
+}
